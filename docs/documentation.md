@@ -35,7 +35,7 @@ API Reference
 -------------
 
 - [Mousetrap.bind](https://github.com/kcoltharp/mousetrap/docs/documentation.md#bind)
-- Mousetrap.unbind(https://github.com/kcoltharp/mousetrap/docs/documentation.md#unbind)
+- [Mousetrap.unbind](https://github.com/kcoltharp/mousetrap/docs/documentation.md#unbind)
 - [Mousetrap.trigger](https://github.com/kcoltharp/mousetrap/docs/documentation.md#trigger)
 - [Mousetrap.stopCallback](https://github.com/kcoltharp/mousetrap/docs/documentation.md#stop)
 - [Mousetrap.reset](https://github.com/kcoltharp/mousetrap/docs/documentation.md#reset)
