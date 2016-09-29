@@ -33,13 +33,13 @@ Any other key you should be able to reference by name like `a`, `/`, `$`, `*`, o
 
 ##API Reference
 
-1. [Mousetrap.bind](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/bind.md)
-2. [Mousetrap.unbind](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/unbind.md)
-3. [Mousetrap.trigger](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/trigger.md)
-4. [Mousetrap.stopCallback](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/stopCallback.md)
-5. [Mousetrap.reset](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/reset.md)
-6. [Mousetrap.handleKey](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/handleKey.md)
-7. [Mousetrap.addKeycodes](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/addKeyCodes.md)
+1. [Mousetrap.bind](/bind.md)
+2. [Mousetrap.unbind](/unbind.md)
+3. [Mousetrap.trigger](/trigger.md)
+4. [Mousetrap.stopCallback](/stopCallback.md)
+5. [Mousetrap.reset](/reset.md)
+6. [Mousetrap.handleKey](/handleKey.md)
+7. [Mousetrap.addKeycodes](/addKeyCodes.md)
 
 
 ##Quick Start
