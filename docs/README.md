@@ -33,7 +33,7 @@ Any other key you should be able to reference by name like `a`, `/`, `$`, `*`, o
 
 ##API Reference
 
-1. [Mousetrap.bind](/bind.md)
+1. [Mousetrap.bind](https://github.com/kcoltharp/mousetrap/tree/documentation-edits/docs/bind.md)
 2. [Mousetrap.unbind](/unbind.md)
 3. [Mousetrap.trigger](/trigger.md)
 4. [Mousetrap.stopCallback](/stopCallback.md)
