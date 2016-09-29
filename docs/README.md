@@ -1,5 +1,5 @@
-#Mousetrap.js
--------------
+Mousetrap.js
+------------
 
 
 ##Introduction
@@ -33,13 +33,13 @@ Any other key you should be able to reference by name like `a`, `/`, `$`, `*`, o
 
 ##API Reference
 
-[Mousetrap.bind](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/bind)
-[Mousetrap.unbind](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/unbind)
-[Mousetrap.trigger](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/trigger)
-[Mousetrap.stopCallback](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/stopCallback)
-[Mousetrap.reset](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/reset)
-[Mousetrap.handleKey](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/handleKey)
-[Mousetrap.addKeycodes](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/addKeyCodes)
+1. [Mousetrap.bind](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/bind)
+2. [Mousetrap.unbind](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/unbind)
+3. [Mousetrap.trigger](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/trigger)
+4. [Mousetrap.stopCallback](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/stopCallback)
+5. [Mousetrap.reset](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/reset)
+6. [Mousetrap.handleKey](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/handleKey)
+7. [Mousetrap.addKeycodes](https://github.com/kcoltharp/mousetrap/documentation-edits/docs/addKeyCodes)
 
 
 ##Quick Start
