@@ -1,12 +1,12 @@
 Mousetrap.js
-------------
+====
 
 
 ##Introduction
 
 Mousetrap is a standalone library with no external dependencies. It weighs in at around 2kb minified and gzipped and 4.5kb minified.
 
-What are you waiting for? Throw away your mouse and download it now.
+What are you waiting for? Throw away your mouse and download or fork it now.
 
 
 ##Browser Support
