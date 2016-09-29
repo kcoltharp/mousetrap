@@ -6,7 +6,7 @@ Any of the public methods can be overwritten to extend Mousetrap.
 A few example extensions are:
 ###Global bindings###
 
-View or Download
+[View](https://github.com/kcoltharp/mousetrap/tree/documentation-edits/plugins/global-bind)
 
 This extension allows you to specify keyboard events that will work anywhere including inside textarea/input fields.
 
