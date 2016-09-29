@@ -6,7 +6,7 @@ Any of the public methods can be overwritten to extend Mousetrap.
 A few example extensions are:
 ###Global bindings###
 
-[View](https://github.com/kcoltharp/mousetrap/tree/documentation-edits/plugins/global-bind) or [Download](https://raw.github.com/kcoltharp/mousetrap/master/plugins/global-bind/mousetrap-global-bind.min.js)
+[View](https://github.com/kcoltharp/mousetrap/tree/master/plugins/global-bind) or [Download](https://raw.github.com/kcoltharp/mousetrap/master/plugins/global-bind/mousetrap-global-bind.min.js)
 
 This extension allows you to specify keyboard events that will work anywhere including inside textarea/input fields.
 
@@ -22,7 +22,7 @@ This means that a keyboard event bound using `Mousetrap.bind` will only work out
 If you wanted to create keyboard shortcuts that only work when you are inside a specific textarea you can do that too by creating your own extension.
 ###Bind dictionary###
 
-[View](https://github.com/kcoltharp/mousetrap/tree/master/plugins/bind-dictionary) or [Download](https://raw.githubusercontent.com/kcoltharp/mousetrap/master/plugins/bind-dictionary/mousetrap-bind-dictionary.min.js)
+[View](https://github.com/kcoltharp/mousetrap/tree/master/plugins/bind-dictionary) or [Download](https://raw.github.com/kcoltharp/mousetrap/master/plugins/bind-dictionary/mousetrap-bind-dictionary.min.js)
 
 This extension overwrites the default bind behavior and allows you to bind multiple combinations in a single bind call.
 
@@ -49,7 +49,7 @@ You can optionally pass in `keypress`, `keydown` or `keyup` as a second argument
 Other bind calls work the same way as they do by default.
 ###Pause/unpause###
 
-[View](https://github.com/kcoltharp/mousetrap/tree/master/plugins/pause) or [Download](https://raw.githubusercontent.com/kcoltharp/mousetrap/master/plugins/pause/mousetrap-pause.min.js)
+[View](https://github.com/kcoltharp/mousetrap/tree/master/plugins/pause) or [Download](https://raw.github.com/kcoltharp/mousetrap/master/plugins/pause/mousetrap-pause.min.js)
 
 This extension allows Mousetrap to be paused and unpaused without having to reset keyboard shortcuts and rebind them.
 
@@ -65,7 +65,7 @@ Mousetrap.pause();
 
 ###Record###
 
-[View](https://github.com/kcoltharp/mousetrap/tree/master/plugins/record) or [Download](https://raw.githubusercontent.com/kcoltharp/mousetrap/master/plugins/record/mousetrap-record.min.js)
+[View](https://github.com/kcoltharp/mousetrap/tree/master/plugins/record) or [Download](https://raw.github.com/kcoltharp/mousetrap/master/plugins/record/mousetrap-record.min.js)
 
 This extension allows you to record keyboard shortcuts from your application. For example if you wanted to let users specify their own keyboard shortcuts for performing actions on your page you could ask them to enter a shortcut.
 
